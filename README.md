@@ -1,5 +1,6 @@
 # SecureView
-SecureView is a demonstration solution for Continuos Authorization.
+SecureView is a Power Apps demonstration solution for Continuous Authentication.
+
 Continuous authentication is the process of constantly verifying a user's identity throughout their session. 
 It's an advanced security measure that ensures only the authorized user is accessing sensitive information or performing actions on a system. 
 With continuous authentication, there are no longer one-time login credentials or single-factor authentication methods, which can be easily compromised. 
