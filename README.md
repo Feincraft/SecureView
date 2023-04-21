@@ -7,4 +7,7 @@ With continuous authentication, there are no longer one-time login credentials o
 Instead, this method utilizes biometrics and behavioral analysis to establish and maintain trust during a user's entire session. This not only provides enhanced security but also improves the user experience by eliminating the need for repeated logins or interruptions.
 
 In this example, a camera is used to continuously track the user and Azure Face API to verify the user's identity.
+
+⭐Like if you like 😉
+
 ![Image](https://github.com/Feincraft/CDN/blob/main/SecureViewO60.gif?raw=true)
